@@ -1,0 +1,48 @@
+[submodule "bundle/gist-vim"]
+    path = bundle/gist-vim
+    url = https://github.com/mattn/gist-vim.git
+[submodule "bundle/gruvbox"]
+    path = bundle/gruvbox
+    url = https://github.com/morhetz/gruvbox.git
+[submodule "bundle/nerdtree"]
+    path = bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/syntastic"]
+    path = bundle/syntastic
+    url = https://github.com/scrooloose/syntastic
+[submodule "bundle/tabular"]
+    path = bundle/tabular
+    url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/tlib_vim"]
+    path = bundle/tlib_vim
+    url = https://github.com/tomtom/tlib_vim
+[submodule "bundle/vim-addon-mw-utils"]
+    path = bundle/vim-addon-mw-utils
+    url = https://github.com/MarcWeber/vim-addon-mw-utils
+[submodule "bundle/vim-airline"]
+    path = bundle/vim-airline
+    url = https://github.com/bling/vim-airline
+[submodule "bundle/vim-colorschemes"]
+    path = bundle/vim-colorschemes
+    url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/vim-fugitive"]
+    path = bundle/vim-fugitive
+    url = https://github.com/tpope/vim-fugitive
+[submodule "bundle/vim-puppet"]
+    path = bundle/vim-puppet
+    url = https://github.com/rodjek/vim-puppet.git
+[submodule "bundle/vim-ruby"]
+    path = bundle/vim-ruby
+    url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/vim-snippets"]
+    path = bundle/vim-snippets
+    url = https://github.com/honza/vim-snippets
+[submodule "bundle/vim-snipmate"]
+    path = bundle/vim-snipmate
+    url = https://github.com/garbas/vim-snipmate
+[submodule "bundle/webapi-vim"]
+    path = bundle/webapi-vim
+    url = https://github.com/mattn/webapi-vim
+[submodule "gpathogen"]
+    path = gpathogen
+    url = https://github.com/tpope/vim-pathogen
